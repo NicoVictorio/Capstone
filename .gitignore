@@ -1,4 +1,0 @@
-backend/node_modules
-backend/credentials.json
-backend/firebase-admin-key.json
-backend/.env.development
